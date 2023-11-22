@@ -23,6 +23,7 @@
 <pre><code>sudo apt update & sudo apt upgrade</code></pre>
 <pre><code>sudo apt install python3-pip</code></pre>
 <pre><code>sudo pip3 install ansible</code></pre>
+<img src='ansible_version.png' alt=''>
 
 <h4>Установка OpenVPN</h4>
 <p>Для установки OpenVpn были введены следующие команды:</p>
@@ -44,10 +45,11 @@
 </div>
 
 <h4>Настройка OpenVPN</h4>
-<p></p>
+<p>Были загружены сертификаты:</p>
+<img src='2.png' alt=''>
 <img src='ovpn_file.png' alt=''>
 <p>Был создан openvpn интерфейс:</p>
-<img src='Create_OpenVPN_interface.png' alt=''>
+<img src='Create_OpenVPN_interface.jpg' alt=''>
 
 <p>Проверка соединения:</p>
 <img src='Result.png' alt=''>
