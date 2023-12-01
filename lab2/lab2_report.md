@@ -156,6 +156,6 @@ add address=0.ru.pool.ntp.org
 <img src='5.png' alt=''>
 <img src='6.png' alt=''>
 Схема:
-<img src='Схема.png' alt=''>
+<img src='схема.png' alt=''>
 <h3>Вывод:</h3>
 <p>В результате выполнения работы, с помощью Ansible, были настроены несколько сетевых устройств, создан файл Inventory.</p>
