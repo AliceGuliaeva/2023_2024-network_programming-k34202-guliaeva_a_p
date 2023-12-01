@@ -130,7 +130,7 @@
 </pre></code>
 <img src='start_netbox_settings.png' alt=''>
 <p>Результат:</p>
-<img src='start_added_device.png' alt=''>
+<img src='netbox_added_device.png' alt=''>
 
 <p>Проверка связности:</p>
 <img src='ping.png' alt=''>
